@@ -1,0 +1,98 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 23,
+          "top" : 10,
+          "right" : 10,
+          "left" : 31
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "help-bg-menu-frame.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 45,
+          "top" : 19,
+          "right" : 19,
+          "left" : 63
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "help-bg-menu-frame@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+    "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 23,
+          "top" : 10,
+          "right" : 10,
+          "left" : 31
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "help-bg-menu-frame.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 45,
+          "top" : 19,
+          "right" : 19,
+          "left" : 63
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "help-bg-menu-frame@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
